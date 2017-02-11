@@ -1,0 +1,9 @@
+import sys
+
+
+def my_first_function():
+    number = 45
+    return number
+
+
+print(my_first_function())
