@@ -1,0 +1,18 @@
+import sys
+
+
+# labeled my first function
+def my_first_function():
+    number = 45
+    return number
+
+
+print(my_first_function())
+
+
+# labeled my second function
+def my_second_function():
+    print("i'm a derp")
+
+
+my_second_function()
